@@ -1,4 +1,5 @@
 # hello_world
 first Github repository
 
-Testing branches. First edit to the readme file. Will merge this to the original readme.
+testing branches. This time I will delete some text from a previous commit.
+Will merge this to the original readme.
